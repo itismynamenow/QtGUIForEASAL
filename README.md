@@ -8,4 +8,14 @@ This is copy of currently closed repo with new GUI. I moved it here to have it a
 
 For this project I wrote small OpenGL render with features you can observe below:
 
+Orthogonal camera
+
 ![Demo gif](img/CayleySpaceRotation.gif)
+
+GPU mousepicking
+
+![Demo gif](img/CayleySpaceMousepicking.gif)
+
+"Transparency"
+
+![Demo gif](img/CayleySpaceTransparency.gif)
