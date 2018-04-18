@@ -19,3 +19,11 @@ GPU mousepicking
 "Transparency"
 
 ![Demo gif](img/CayleySpaceTransparency.gif)
+
+Instanced rendering (all atoms/spheres are rendered in single call)
+
+![Demo gif](img/Sweep.gif)
+
+Also I did some 2D widgets 
+
+![Demo gif](img/AtlasNodeSelection.gif)
